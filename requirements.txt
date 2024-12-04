@@ -6,3 +6,5 @@ html5lib
 beautifulsoup4
 openpyxl
 matplotlib
+transformers
+torch
