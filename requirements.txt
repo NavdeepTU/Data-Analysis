@@ -8,3 +8,4 @@ openpyxl
 matplotlib
 transformers
 torch
+translate
